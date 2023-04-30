@@ -1,0 +1,47 @@
+[{
+  "id":1,
+  "name":"Denzel Washington",
+  "age": "68",
+  "noofawards": 26,
+  "birthplace" : "Mount Vernon, NY",
+  "livingplace" : "New york",
+  "photo" : "https://flxt.tmsimg.com/assets/16490_v9_bb.jpg"
+
+},
+{
+  "id":2,
+  "name":"Tom Hanks",
+  "age": "66",
+  "noofawards": 56,
+  "birthplace" : "Concord, CA",
+  "livingplace" : "California",
+  "photo" : "https://dtvimages.hs.llnwd.net/e1/photos/celebs/v3/NowShowing/62982/62982_v3_bc.jpg"
+},
+{
+  "id":3,
+  "name":"Leonardo DiCaprio",
+  "age": "48 ",
+  "noofawards": 32,
+  "birthplace" : "Los Angeles, CA",
+  "livingplace" : "California",
+  "photo" : "https://people.com/thmb/g7XQO4JJeF4GTUgR9PFFnvEZ_tY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(665x0:667x2)/leonardo-dicaprio-6-1333x2000-df923fdba7e5404bb9dc2e39dcefb106.jpg"
+},
+{
+  "id":4,
+  "name":"Robert De Niro",
+  "age": "79",
+  "noofawards": 33,
+  "birthplace" : "Greenwich Village, New York, NY",
+  "livingplace" : "New york",
+  "photo" : "https://upload.wikimedia.org/wikipedia/commons/c/c0/Robert_De_Niro_KVIFF_portrait.jpg"
+},
+{
+  "id":5,
+  "name":"Al Pacino",
+  "age": "82",
+  "noofawards": 38,
+  "birthplace" : "East Harlem, New York, NY",
+  "livingplace" : "New york",
+  "photo" : "https://static01.nyt.com/images/2022/03/13/arts/13godfather-pacino1/merlin_203043024_2d87c8a6-318e-4d82-afc7-0b00cea6b7af-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+}
+]
